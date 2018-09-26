@@ -1,2 +1,2 @@
 file1 created
-file1 modded
+file2 modded
